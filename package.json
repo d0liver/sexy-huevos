@@ -1,20 +1,15 @@
 {
-    "name": "casper",
-    "description": "The default personal blogging theme for Ghost. Beautiful, minimal and responsive.",
-    "demo": "https://demo.ghost.io",
-    "version": "1.3.4",
+    "name": "sexy-huevos",
+    "description": "The Ghost theme for David Oliver's blog.",
+    "demo": "https://david-oliver.ghost.io",
+    "version": "1.0.0",
     "engines": {
         "ghost": ">=0.9.0 <1.0.0"
     },
-    "license": "MIT",
-    "screenshots": {
-        "desktop": "assets/screenshot-desktop.jpg",
-        "mobile": "assets/screenshot-mobile.jpg"
-    },
     "author": {
-        "name": "Ghost Foundation",
-        "email": "hello@ghost.org",
-        "url": "https://ghost.org"
+        "name": "David Oliver",
+        "email": "david@doliver.org",
+        "url": "https://david-oliver.ghost.io"
     },
     "gpm": {
         "type": "theme",
@@ -24,13 +19,11 @@
         ]
     },
     "keywords": [
-        "ghost",
         "theme"
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/TryGhost/Casper.git"
+        "url": "https://github.com/d0liver/sexy-huevos"
     },
-    "bugs": "https://github.com/TryGhost/Casper/issues",
-    "contributors": "https://github.com/TryGhost/Casper/graphs/contributors"
+    "bugs": "https://github.com/d0liver/sexy-huevos"
 }
